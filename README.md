@@ -4,6 +4,10 @@
 
 My name is Kevin and I am a broke college student who aspires to make that batch script money. I mess with apis, mongodb and nodejs. Add me on [discord](https://discordapp.com/users/264799632918446081) to discuss potential mlm schemes. If you are a potential employer, ignore that last part and enjoy my mess of repos. Have fun! - Kevin
 
+If you are still here check out these repos:
+* [KnowledgeBase](https://github.com/Kvrnn/KnowledgeBase)
+* [discordGateway](https://github.com/Kvrnn/discordGateway)
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kvrnn&count_private=trueshow_icons=true&theme=tokyonight )
 
 <!--
